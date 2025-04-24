@@ -1,0 +1,28 @@
+
+Mohsin!1232
+
+
+1) Basic Git commands
+
+git init     #to initialize git
+git status     #to check the git status (untracked,stages,tracked)
+git add  <file name>     #to move file from untracked to stages
+git commit -m  "any message"     #to move file from stages to tracked
+git rm <file name>     #to delete file
+git restore <filename>     #to restore deleted file
+
+
+2) How to connect a github with local & push file from local to github web.
+
+git remote add origin https://github.com/mohsinshaikh-01/github_for_devops.git       #to add a web repository in local
+
+git remote set-url origin https://github.com/mohsinshaikh-01/github_for_devops.git         #to set url of your git repo - then u will ask to sign-in
+
+git remote -v        #to check your connected repo URL
+
+git push origin master      # to push from local to github repo
+
+3) Cloning from Github to Github/ github to local
+      4) on the Github you click Fork on any repository & create fork - this will    copy the other repo in your repo
+      5) Go to any repo > click Code > copy URL > open cli of local & type below
+git clone "url copied"
