@@ -5,3 +5,5 @@ This file is modified by Mohsin shaikh
 This is to check conflict
 
 This is wrong conflict
+
+This is to check conflict 2 - new one
