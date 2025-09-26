@@ -1,7 +1,0 @@
-Thsi is created to move from UAT to prod via Git commands
-
-This file is modified by Mohsin shaikh
-
-This is to check conflict
-
-& the name of that testing branch is mohsin-test branch.
